@@ -12,8 +12,3 @@ This coursework demonstrates practical implementation of relational database con
 - MySQL
 - SQL
 - Draw.io (ER Diagrams)
-
-##  Full Report
-Click below to view the complete coursework report:
-
-[View Report](./Database-Design-Coursework-Report.pdf)
